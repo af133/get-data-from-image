@@ -31,7 +31,7 @@ python -m venv venv
 3. **Install dependencies:**
 Pastikan Anda sudah memiliki file `requirements.txt` di folder yang sama, lalu jalankan:
 ```bash
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 ```
 
